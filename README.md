@@ -1,6 +1,8 @@
 Crazy Eights Game (Akka Example)
 ============
 
+Game rule http://en.wikipedia.org/wiki/Crazy_Eights
+
 
 Game Arguments
 ```bash
