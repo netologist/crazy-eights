@@ -98,6 +98,7 @@ class PlayerActor extends Actor {
       println("1..99      discard card operation (choose task order)")
       println("s, status  get game status")
       println("d, draw    draw card")
+      println("x, exit    exit game")
       println("")
       self ! ShowPrompt
 
