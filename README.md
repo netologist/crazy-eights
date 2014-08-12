@@ -4,7 +4,7 @@ Crazy Eights Game (Akka Example)
 
 Game Arguments
 ```bash
-$ sbt "run"
+$ sbt run
 
 Usage: crazy-eights [options]
 
