@@ -64,7 +64,7 @@ Game Stats
 DiscardPile: 	 DIAMOND 3
 StockPile: 	 39 cards
 OtherHandPiles: 
-		 Player #1 has 8 cards
+		 Player #2 has 8 cards
 YourHandPile: 
 		 1 - JOKER
 		 2 - JOKER
