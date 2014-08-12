@@ -10,6 +10,7 @@
 
 # sbt specific
 project/credentials.sbt
+
 .cache/
 .history/
 .lib/
