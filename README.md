@@ -1,4 +1,4 @@
-Crazy Eights Game (Akka Example)
+Crazy Eights Game (Akka Remote Example)
 ============
 
 Game rules http://en.wikipedia.org/wiki/Crazy_Eights
