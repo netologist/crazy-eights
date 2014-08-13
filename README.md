@@ -61,7 +61,7 @@ Player #1> status
 
 Game Stats
 ----------
-DiscardPile: 	 DIAMOND 3
+DiscardPile: DIAMOND 3
 StockPile: 	 39 cards
 OtherHandPiles: 
 		 Player #2 has 8 cards
